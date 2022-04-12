@@ -24,7 +24,7 @@ void times_table(void)
 			{
 				_putchar(',');
 				_putchar(' ');
-				_putchar(tens + '0'):
+				_putchar(tens + '0');
 				_putchar(unit + '0');
 			}
 		}
